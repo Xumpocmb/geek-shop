@@ -1,0 +1,62 @@
+[
+    {
+        "category_id": 1,
+        "description": "",
+        "id": 1,
+        "image": "products_images/Adidas-hoodie_wIKhPVP.png",
+        "name": "Худи черного цвета с монограммами adidas Originals",
+        "price": 6090,
+        "quantity": 10,
+        "short_description": "Мягкая ткань для свитшотов. Стиль и комфорт – это образ жизни."
+    },
+    {
+        "category_id": 1,
+        "description": "",
+        "id": 2,
+        "image": "products_images/Blue-jacket-The-North-Face_rD1puMI.png",
+        "name": "Синяя куртка The North Face",
+        "price": 23725,
+        "quantity": 20,
+        "short_description": "Гладкая ткань. Водонепроницаемое покрытие. Легкий и теплый пухов"
+    },
+    {
+        "category_id": 1,
+        "description": "",
+        "id": 3,
+        "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN_7UjZD8h.png",
+        "name": "Коричневый спортивный oversized-топ ASOS DESIGN",
+        "price": 3390,
+        "quantity": 5,
+        "short_description": "Материал с плюшевой текстурой. Удобный и мягкий."
+    },
+    {
+        "category_id": 2,
+        "description": "",
+        "id": 4,
+        "image": "products_images/Black-Nike-Heritage-backpack_dPi9Wry.png",
+        "name": "Черный рюкзак Nike Heritage",
+        "price": 2340,
+        "quantity": 15,
+        "short_description": "Плотная ткань. Легкий материал."
+    },
+    {
+        "category_id": 2,
+        "description": "",
+        "id": 5,
+        "image": "products_images/Black-Dr-Martens-shoes_6G3rfd5.png",
+        "name": "Черные туфли на платформе с 3 парами люверсов Dr Martens 1461 Bex",
+        "price": 13590,
+        "quantity": 20,
+        "short_description": "Гладкий кожаный верх. Натуральный материал."
+    },
+    {
+        "category_id": 1,
+        "description": "",
+        "id": 6,
+        "image": "products_images/Dark-blue-wide-leg-ASOs-DESIGN-trousers_C2DPeAA.png",
+        "name": "Темно-синие широкие строгие брюки ASOS DESIGN",
+        "price": 2890,
+        "quantity": 15,
+        "short_description": "Легкая эластичная ткань сирсакер Фактурная ткань."
+    }
+]
