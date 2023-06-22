@@ -52,6 +52,8 @@ pip-delete-this-directory.txt
 __pypackages__/
 
 # Environments
+.idea
+.idea/*
 .venv
 env/
 venv/
@@ -61,7 +63,7 @@ venv.bak/
 
 # Pyre type checker
 .pyre/
-.idea/*
+
 .env
 *.mp3
 *.pdf
